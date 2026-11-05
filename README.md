@@ -5,7 +5,7 @@
 Lightweight Launch Pad Replacement for MacOS.
 
 
-Custom hotkeys are enabled.
+Custom hotkeys, auto light and dark mode, startup behavior toggle.
 
 Quick Start: 
 
