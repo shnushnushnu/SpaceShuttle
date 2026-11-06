@@ -5,12 +5,12 @@
 Lightweight Launch Pad Replacement for MacOS.
 
 
-Custom hotkeys, auto light and dark mode, startup behavior toggle.
+Custom hotkeys, drag to reorganize, auto light and dark mode, startup behavior toggle.
 
 Quick Start: 
 
 - Move SpaceShuttle.app to Applications folder.
 - If MacOS shows a security notice, go to Settings> Privacy & Security > Open Anyway
 - Press Cmd+Ctrl+Space to launch for the first time
-    - To change hotkey, access settings using Cmd+,
-    - Toggle on/off startup behavior via same settings menu
+- Press Cmd+, to access settings
+- Drag to reorder apps
