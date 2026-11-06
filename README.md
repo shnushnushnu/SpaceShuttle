@@ -9,7 +9,8 @@ Custom hotkeys, drag to reorder, auto light and dark mode.
 
 Quick Start: 
 
-- Move SpaceShuttle.app to Applications folder.
-- If MacOS shows a security notice, go to Settings> Privacy & Security > Open Anyway
+- Double click SpaceShuttle.dmg and open it from Finder sidebar
+- Move SpaceShuttle.app to Applications folder, then Double click to open
+- If MacOS shows a security notice, go to System Settings> Privacy & Security > Security> Open Anyway
 - Press Cmd+Ctrl+Space to launch for the first time
 - Press Cmd+, to access settings
