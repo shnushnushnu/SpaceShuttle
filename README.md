@@ -13,4 +13,4 @@ Quick Start:
 - Move SpaceShuttle.app to Applications folder, then Double click to open
 - If MacOS shows a security notice, go to System Settings> Privacy & Security > Security> Open Anyway
 - Press Cmd+Ctrl+Space to launch for the first time
-- Press Cmd+, to access settings
+- Press Cmd+, to access settings and change hotkey if needed
