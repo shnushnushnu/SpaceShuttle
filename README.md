@@ -2,7 +2,7 @@
 
 
 # SpaceShuttle
-Lightweight Launch Pad Replacement for MacOS.
+Lightweight, open source Launch Pad Replacement for MacOS.
 
 
 Custom hotkeys, drag to reorder, auto light and dark mode.
